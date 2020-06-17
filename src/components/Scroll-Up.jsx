@@ -29,7 +29,7 @@ const ScrollToTop = (props) => {
       {visible && (
         <div onClick={() => scrollUp()}>
           <button id="myBtn" title="Go to top">
-            <i className="fa fa-arrow-up "></i>
+            <i className="fas fa-arrow-up "></i>
           </button>
         </div>
       )}

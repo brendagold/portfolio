@@ -166,7 +166,7 @@ const Main = () => {
             like WordPress, Magneto and others.
           </p>
           <p>
-            When not online, Brenda can be found hanging out with her friends,
+            When not online, Mary can be found hanging out with her friends,
             trying out a new recipe in the kitchen, making herself up, or
             writing on her blog, Beautietimes.
           </p>
@@ -229,7 +229,7 @@ const Main = () => {
           {/* <!-- Portfolio item 03 --> */}
           <div className="portfolio__overlay">
             <img
-              src={process.env.PUBLIC_URL + "../images/brenda-travel.jpg"}
+              src={process.env.PUBLIC_URL + "/images/brenda-travel.jpg"}
               alt="port3"
               className="portfolio__img"
             />
