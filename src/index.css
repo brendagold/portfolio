@@ -361,6 +361,13 @@ header {
   visibility: hidden;
 }
 
+.not-found {
+  font-size: var(--fs-body);
+  text-align: center;
+  background-image: url("/images/not-found-bg.jpg");
+  background-size: cover;
+}
+
 @media (min-width: 600px) {
   .about-me {
     display: grid;
