@@ -1,0 +1,1236 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <header>
+          <div
+            class="logo"
+          >
+            <a
+              href="/"
+            >
+              <img
+                alt="portfolio-logo"
+                src="/images/logo.png"
+              />
+            </a>
+          </div>
+          <div
+            class="hide"
+          >
+            <button
+              aria-label="toggle navigation"
+              class="nav-toggle"
+            >
+              <span
+                class="hamburger"
+              />
+            </button>
+            <nav
+              class="navv"
+            >
+              <ul
+                class="nav__list"
+              >
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="/#home"
+                  >
+                    Home
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="/#services"
+                  >
+                    My Services
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="/#about"
+                  >
+                    About me
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="/#work"
+                  >
+                    My Work
+                  </a>
+                </li>
+                <li
+                  class="nav__item"
+                >
+                  <a
+                    class="nav__link"
+                    href="/#contact"
+                  >
+                    Contact Me
+                  </a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </header>
+        <div>
+          <section
+            class="intro"
+            id="home"
+          >
+            <h1
+              class="section__title section__title--intro"
+            >
+              Hi, I am 
+              <strong>
+                Mary C.
+              </strong>
+            </h1>
+            <p
+              class="section__subtitle section__subtitle--intro"
+            >
+              front-end dev
+            </p>
+            <img
+              alt="Brenda Peters smiling"
+              class="intro__img"
+              src="/images/brenda-main.jpg"
+            />
+          </section>
+          <section
+            class="my-services"
+            id="services"
+          >
+            <h2
+              class="section__title section__title--services"
+            >
+              What I do
+            </h2>
+            <div
+              class="services"
+            >
+              <div
+                id="slider"
+              >
+                <article>
+                  <div
+                    class="slide"
+                  >
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        Design + Development
+                      </h3>
+                      <p>
+                        Clean,responsive modern websites - performance optimized, search engines optimized, and converting users to customers.
+                      </p>
+                    </div>
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        E-Commerce
+                      </h3>
+                      <p>
+                        Integration of eCommerce platforms, payment gateways, shipping details, custom product templates, and more.
+                      </p>
+                    </div>
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        Content Management
+                      </h3>
+                      <p>
+                        Custom WordPress Website. Easily update content without knowing how to code.
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="slide"
+                  >
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        Analytics
+                      </h3>
+                      <p>
+                        Get insights about who is browsing your site, when and where, so that you can make smarter business decisions.
+                      </p>
+                    </div>
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        ChatBots
+                      </h3>
+                      <p>
+                        Do you need an automated chatbot for your business. I can get it for you.
+                      </p>
+                    </div>
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        Mobile Friendly
+                      </h3>
+                      <p>
+                        Mobile first websites is priority. With a responsive design your website is accessible to all users, regardless of their device.
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="slide"
+                  >
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        Website Audit
+                      </h3>
+                      <p>
+                        Looking to improve your page performance, SEO, or user experience of your website? Request a free site audit.
+                      </p>
+                    </div>
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        Mobile Applications
+                      </h3>
+                      <p>
+                        Get a mobile application for your business. Andriod, iOS, and others
+                      </p>
+                    </div>
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        Online Branding and Consulting
+                      </h3>
+                      <p>
+                        New to the online world and do not know where to start? Get in touch. I can set you up and running in no time.
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="slide"
+                  >
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        Design + Development
+                      </h3>
+                      <p>
+                        Clean,responsive modern websites - performance optimized, search engines optimized, and converting users to customers.
+                      </p>
+                    </div>
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        E-Commerce
+                      </h3>
+                      <p>
+                        Integration of eCommerce platforms, payment gateways, shipping details, custom product templates, and more.
+                      </p>
+                    </div>
+                    <div
+                      class="service"
+                    >
+                      <h3>
+                        Content Management
+                      </h3>
+                      <p>
+                        Custom WordPress Website. Easily update content without knowing how to code.
+                      </p>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <a
+              class="btnn"
+              href="#work"
+            >
+              My Work
+            </a>
+          </section>
+          <section
+            class="about-me"
+            id="about"
+          >
+            <h2
+              class="section__title section__title--about"
+            >
+              Who I am
+            </h2>
+            <p
+              class="section__subtitle section__subtitle--about"
+            >
+              front-end dev / wordpress expert / freelancer
+            </p>
+            <div
+              class="about-me__body"
+            >
+              <p>
+                Professionally connected with Information Technology for many years. Well organized, passionate, problem solver and pays attention to details.
+              </p>
+              <p>
+                My main area of expertise is Front-end Development. I work with HTML, CSS, JavaScript, TypeScript, SPAs, Web Applications with React JS, animations and coding interactive and responsive layouts. 
+                <br />
+                 
+                I also have full-stack development experience with open-source CMS like WordPress, Magneto and others.
+              </p>
+              <p>
+                When not online, Mary can be found hanging out with her friends, trying out a new recipe in the kitchen, making herself up, or writing on her blog, Beautietimes.
+              </p>
+              <a
+                class="btnn"
+                href="https://t.me/charmingbrenda"
+              >
+                Hire Me
+              </a>
+            </div>
+            <img
+              alt="Brenda"
+              class="about-me__img"
+              src="/images/brenda-about.jpg"
+            />
+          </section>
+          <section
+            class="my-work"
+            id="work"
+          >
+            <h2
+              class="section__title section__title--work"
+            >
+              My work
+            </h2>
+            <p
+              class="section__subtitle section__subtitle--work"
+            >
+              A selection of my range of work
+            </p>
+            <div
+              class="portfolio"
+            >
+              <div
+                class="portfolio__overlay"
+              >
+                <img
+                  alt="port1"
+                  class="portfolio__img"
+                  src="/images/image-hub.jpg"
+                />
+                <div
+                  class="middle"
+                >
+                  <div
+                    class="text"
+                  >
+                    <h3>
+                      Image Hub
+                    </h3>
+                    <p>
+                      React JS | HTML5 | Bootstrap 
+                    </p>
+                    <a
+                      class="portfolio__item btnn"
+                      href="/portfolio/1"
+                    >
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="portfolio__overlay"
+              >
+                <img
+                  alt="port2"
+                  class="portfolio__img"
+                  src="/images/vidly-large.jpg"
+                />
+                <div
+                  class="middle"
+                >
+                  <div
+                    class="text"
+                  >
+                    <h3>
+                      Vidly Movie App
+                    </h3>
+                    <p>
+                      React JS | HTMl | Bootstrap 
+                    </p>
+                    <a
+                      class="portfolio__item btnn"
+                      href="/portfolio/2"
+                    >
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="portfolio__overlay"
+              >
+                <img
+                  alt="port3"
+                  class="portfolio__img"
+                  src="/images/brenda-travel.jpg"
+                />
+                <div
+                  class="middle"
+                >
+                  <div
+                    class="text"
+                  >
+                    <h3>
+                      Brenda Travel
+                    </h3>
+                    <p>
+                       HTML5 | Bootstrap | JavaScript | CSS3 
+                    </p>
+                    <a
+                      class="portfolio__item btnn"
+                      href="/portfolio/3"
+                    >
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="portfolio__overlay"
+              >
+                <img
+                  alt="port4"
+                  class="portfolio__img"
+                  src="/images/beautie-times.jpg"
+                />
+                <div
+                  class="middle"
+                >
+                  <div
+                    class="text"
+                  >
+                    <h3>
+                      Beautie Times
+                    </h3>
+                    <p>
+                      CMS | WordPress | PHP 
+                    </p>
+                    <a
+                      class="portfolio__item btnn"
+                      href="/portfolio/4"
+                    >
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section
+            class="contact"
+            id="contact"
+          >
+            <h2
+              class="section__title section__title--work"
+            >
+              Contact Me
+            </h2>
+            <div
+              class="contact-grid"
+            >
+              <div
+                class="grid-item1"
+              >
+                <img
+                  alt="contact-me"
+                  src="/images/contact-us.svg"
+                />
+              </div>
+              <div
+                class="grid-item2"
+              >
+                <p
+                  id="form-title"
+                >
+                  I am interested in freelance opportunities — small and large projects. However, if you have any question or request, don't hesistate to contact me.
+                </p>
+                <div
+                  class="form-container"
+                >
+                  <form
+                    action="https://usebasin.com/f/355f602626bd"
+                    method="POST"
+                  >
+                    <input
+                      id="fname"
+                      name="firstname"
+                      placeholder="Your Name.."
+                      type="text"
+                    />
+                    <input
+                      id="email"
+                      name="email"
+                      placeholder="Your Email.."
+                      type="text"
+                    />
+                    <textarea
+                      id="subject"
+                      name="subject"
+                      placeholder="Message.."
+                    />
+                    <div
+                      class="submit-row"
+                    >
+                      <input
+                        type="submit"
+                        value="Submit"
+                      />
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <footer
+          class="footer"
+        >
+          <h4
+            class="footer-head"
+          >
+            Let's Be Internet BFFs
+          </h4>
+          <ul
+            class="social-list"
+          >
+            <li
+              class="social-list__item"
+            >
+              <a
+                class="social-list__link"
+                href="https://t.me/charmingbrenda"
+              >
+                <i
+                  class="fab fa-telegram-plane"
+                />
+              </a>
+            </li>
+            <li
+              class="social-list__item"
+            >
+              <a
+                class="social-list__link"
+                href="http://linkedin.com/in/mary-brenda-chukwuma-14a933141"
+              >
+                <i
+                  class="fab fa-linkedin"
+                />
+              </a>
+            </li>
+            <li
+              class="social-list__item"
+            >
+              <a
+                class="social-list__link"
+                href="https://twitter.com/charmingbrenda"
+              >
+                <i
+                  class="fab fa-twitter"
+                />
+              </a>
+            </li>
+            <li
+              class="social-list__item"
+            >
+              <a
+                class="social-list__link"
+                href="https://github.com/brendagold"
+              >
+                <i
+                  class="fab fa-github"
+                />
+              </a>
+            </li>
+          </ul>
+          <h5
+            id="copyright"
+          >
+            Mary © 2020
+          </h5>
+        </footer>
+        <div
+          class="scroll-to-top"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <header>
+        <div
+          class="logo"
+        >
+          <a
+            href="/"
+          >
+            <img
+              alt="portfolio-logo"
+              src="/images/logo.png"
+            />
+          </a>
+        </div>
+        <div
+          class="hide"
+        >
+          <button
+            aria-label="toggle navigation"
+            class="nav-toggle"
+          >
+            <span
+              class="hamburger"
+            />
+          </button>
+          <nav
+            class="navv"
+          >
+            <ul
+              class="nav__list"
+            >
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="/#home"
+                >
+                  Home
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="/#services"
+                >
+                  My Services
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="/#about"
+                >
+                  About me
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="/#work"
+                >
+                  My Work
+                </a>
+              </li>
+              <li
+                class="nav__item"
+              >
+                <a
+                  class="nav__link"
+                  href="/#contact"
+                >
+                  Contact Me
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+      <div>
+        <section
+          class="intro"
+          id="home"
+        >
+          <h1
+            class="section__title section__title--intro"
+          >
+            Hi, I am 
+            <strong>
+              Mary C.
+            </strong>
+          </h1>
+          <p
+            class="section__subtitle section__subtitle--intro"
+          >
+            front-end dev
+          </p>
+          <img
+            alt="Brenda Peters smiling"
+            class="intro__img"
+            src="/images/brenda-main.jpg"
+          />
+        </section>
+        <section
+          class="my-services"
+          id="services"
+        >
+          <h2
+            class="section__title section__title--services"
+          >
+            What I do
+          </h2>
+          <div
+            class="services"
+          >
+            <div
+              id="slider"
+            >
+              <article>
+                <div
+                  class="slide"
+                >
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      Design + Development
+                    </h3>
+                    <p>
+                      Clean,responsive modern websites - performance optimized, search engines optimized, and converting users to customers.
+                    </p>
+                  </div>
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      E-Commerce
+                    </h3>
+                    <p>
+                      Integration of eCommerce platforms, payment gateways, shipping details, custom product templates, and more.
+                    </p>
+                  </div>
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      Content Management
+                    </h3>
+                    <p>
+                      Custom WordPress Website. Easily update content without knowing how to code.
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="slide"
+                >
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      Analytics
+                    </h3>
+                    <p>
+                      Get insights about who is browsing your site, when and where, so that you can make smarter business decisions.
+                    </p>
+                  </div>
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      ChatBots
+                    </h3>
+                    <p>
+                      Do you need an automated chatbot for your business. I can get it for you.
+                    </p>
+                  </div>
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      Mobile Friendly
+                    </h3>
+                    <p>
+                      Mobile first websites is priority. With a responsive design your website is accessible to all users, regardless of their device.
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="slide"
+                >
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      Website Audit
+                    </h3>
+                    <p>
+                      Looking to improve your page performance, SEO, or user experience of your website? Request a free site audit.
+                    </p>
+                  </div>
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      Mobile Applications
+                    </h3>
+                    <p>
+                      Get a mobile application for your business. Andriod, iOS, and others
+                    </p>
+                  </div>
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      Online Branding and Consulting
+                    </h3>
+                    <p>
+                      New to the online world and do not know where to start? Get in touch. I can set you up and running in no time.
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="slide"
+                >
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      Design + Development
+                    </h3>
+                    <p>
+                      Clean,responsive modern websites - performance optimized, search engines optimized, and converting users to customers.
+                    </p>
+                  </div>
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      E-Commerce
+                    </h3>
+                    <p>
+                      Integration of eCommerce platforms, payment gateways, shipping details, custom product templates, and more.
+                    </p>
+                  </div>
+                  <div
+                    class="service"
+                  >
+                    <h3>
+                      Content Management
+                    </h3>
+                    <p>
+                      Custom WordPress Website. Easily update content without knowing how to code.
+                    </p>
+                  </div>
+                </div>
+              </article>
+            </div>
+          </div>
+          <a
+            class="btnn"
+            href="#work"
+          >
+            My Work
+          </a>
+        </section>
+        <section
+          class="about-me"
+          id="about"
+        >
+          <h2
+            class="section__title section__title--about"
+          >
+            Who I am
+          </h2>
+          <p
+            class="section__subtitle section__subtitle--about"
+          >
+            front-end dev / wordpress expert / freelancer
+          </p>
+          <div
+            class="about-me__body"
+          >
+            <p>
+              Professionally connected with Information Technology for many years. Well organized, passionate, problem solver and pays attention to details.
+            </p>
+            <p>
+              My main area of expertise is Front-end Development. I work with HTML, CSS, JavaScript, TypeScript, SPAs, Web Applications with React JS, animations and coding interactive and responsive layouts. 
+              <br />
+               
+              I also have full-stack development experience with open-source CMS like WordPress, Magneto and others.
+            </p>
+            <p>
+              When not online, Mary can be found hanging out with her friends, trying out a new recipe in the kitchen, making herself up, or writing on her blog, Beautietimes.
+            </p>
+            <a
+              class="btnn"
+              href="https://t.me/charmingbrenda"
+            >
+              Hire Me
+            </a>
+          </div>
+          <img
+            alt="Brenda"
+            class="about-me__img"
+            src="/images/brenda-about.jpg"
+          />
+        </section>
+        <section
+          class="my-work"
+          id="work"
+        >
+          <h2
+            class="section__title section__title--work"
+          >
+            My work
+          </h2>
+          <p
+            class="section__subtitle section__subtitle--work"
+          >
+            A selection of my range of work
+          </p>
+          <div
+            class="portfolio"
+          >
+            <div
+              class="portfolio__overlay"
+            >
+              <img
+                alt="port1"
+                class="portfolio__img"
+                src="/images/image-hub.jpg"
+              />
+              <div
+                class="middle"
+              >
+                <div
+                  class="text"
+                >
+                  <h3>
+                    Image Hub
+                  </h3>
+                  <p>
+                    React JS | HTML5 | Bootstrap 
+                  </p>
+                  <a
+                    class="portfolio__item btnn"
+                    href="/portfolio/1"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="portfolio__overlay"
+            >
+              <img
+                alt="port2"
+                class="portfolio__img"
+                src="/images/vidly-large.jpg"
+              />
+              <div
+                class="middle"
+              >
+                <div
+                  class="text"
+                >
+                  <h3>
+                    Vidly Movie App
+                  </h3>
+                  <p>
+                    React JS | HTMl | Bootstrap 
+                  </p>
+                  <a
+                    class="portfolio__item btnn"
+                    href="/portfolio/2"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="portfolio__overlay"
+            >
+              <img
+                alt="port3"
+                class="portfolio__img"
+                src="/images/brenda-travel.jpg"
+              />
+              <div
+                class="middle"
+              >
+                <div
+                  class="text"
+                >
+                  <h3>
+                    Brenda Travel
+                  </h3>
+                  <p>
+                     HTML5 | Bootstrap | JavaScript | CSS3 
+                  </p>
+                  <a
+                    class="portfolio__item btnn"
+                    href="/portfolio/3"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="portfolio__overlay"
+            >
+              <img
+                alt="port4"
+                class="portfolio__img"
+                src="/images/beautie-times.jpg"
+              />
+              <div
+                class="middle"
+              >
+                <div
+                  class="text"
+                >
+                  <h3>
+                    Beautie Times
+                  </h3>
+                  <p>
+                    CMS | WordPress | PHP 
+                  </p>
+                  <a
+                    class="portfolio__item btnn"
+                    href="/portfolio/4"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          class="contact"
+          id="contact"
+        >
+          <h2
+            class="section__title section__title--work"
+          >
+            Contact Me
+          </h2>
+          <div
+            class="contact-grid"
+          >
+            <div
+              class="grid-item1"
+            >
+              <img
+                alt="contact-me"
+                src="/images/contact-us.svg"
+              />
+            </div>
+            <div
+              class="grid-item2"
+            >
+              <p
+                id="form-title"
+              >
+                I am interested in freelance opportunities — small and large projects. However, if you have any question or request, don't hesistate to contact me.
+              </p>
+              <div
+                class="form-container"
+              >
+                <form
+                  action="https://usebasin.com/f/355f602626bd"
+                  method="POST"
+                >
+                  <input
+                    id="fname"
+                    name="firstname"
+                    placeholder="Your Name.."
+                    type="text"
+                  />
+                  <input
+                    id="email"
+                    name="email"
+                    placeholder="Your Email.."
+                    type="text"
+                  />
+                  <textarea
+                    id="subject"
+                    name="subject"
+                    placeholder="Message.."
+                  />
+                  <div
+                    class="submit-row"
+                  >
+                    <input
+                      type="submit"
+                      value="Submit"
+                    />
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <footer
+        class="footer"
+      >
+        <h4
+          class="footer-head"
+        >
+          Let's Be Internet BFFs
+        </h4>
+        <ul
+          class="social-list"
+        >
+          <li
+            class="social-list__item"
+          >
+            <a
+              class="social-list__link"
+              href="https://t.me/charmingbrenda"
+            >
+              <i
+                class="fab fa-telegram-plane"
+              />
+            </a>
+          </li>
+          <li
+            class="social-list__item"
+          >
+            <a
+              class="social-list__link"
+              href="http://linkedin.com/in/mary-brenda-chukwuma-14a933141"
+            >
+              <i
+                class="fab fa-linkedin"
+              />
+            </a>
+          </li>
+          <li
+            class="social-list__item"
+          >
+            <a
+              class="social-list__link"
+              href="https://twitter.com/charmingbrenda"
+            >
+              <i
+                class="fab fa-twitter"
+              />
+            </a>
+          </li>
+          <li
+            class="social-list__item"
+          >
+            <a
+              class="social-list__link"
+              href="https://github.com/brendagold"
+            >
+              <i
+                class="fab fa-github"
+              />
+            </a>
+          </li>
+        </ul>
+        <h5
+          id="copyright"
+        >
+          Mary © 2020
+        </h5>
+      </footer>
+      <div
+        class="scroll-to-top"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
