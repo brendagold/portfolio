@@ -7,8 +7,8 @@
 /* Custom Properties, update these for your own design */
 
 :root {
-  --ff-primary: "Lora", serif;
-  --ff-secondary: "Roboto Slab", serif;
+  --ff-primary: 'Lora', serif;
+  --ff-secondary: 'Roboto Slab', serif;
 
   --fw-reg: 400;
   --fw-bold: 700;
@@ -87,6 +87,10 @@ strong {
 
 .btnn:hover {
   transform: scale(1.1);
+}
+
+.mt-6 {
+  margin-top: 40px;
 }
 
 /* Typography */
@@ -241,7 +245,7 @@ header {
 
 .hamburger::before,
 .hamburger::after {
-  content: "";
+  content: '';
   position: absolute;
   left: 0;
   right: 0;
@@ -275,8 +279,8 @@ header {
     margin: 0 auto;
     grid-column-gap: 1em;
     grid-template-areas:
-      "img title"
-      "img subtitle";
+      'img title'
+      'img subtitle';
     grid-template-columns: min-content max-content;
   }
 
@@ -302,7 +306,7 @@ header {
 
 .my-services {
   background-color: var(--clr-dark);
-  background-image: url("/images/woman-coding.jpg");
+  background-image: url('/images/woman-coding.jpg');
   background-size: cover;
   background-blend-mode: multiply;
   color: var(--clr-light);
@@ -315,7 +319,7 @@ header {
 }
 
 .section__title--services::after {
-  content: "";
+  content: '';
   display: block;
   width: 2em;
   height: 1px;
@@ -364,7 +368,7 @@ header {
 .not-found {
   font-size: var(--fs-body);
   text-align: center;
-  background-image: url("/images/not-found-bg.jpg");
+  background-image: url('/images/not-found-bg.jpg');
   background-size: cover;
 }
 
@@ -373,9 +377,9 @@ header {
     display: grid;
     grid-template-columns: 1fr 200px;
     grid-template-areas:
-      "title img"
-      "subtitle img"
-      "text img";
+      'title img'
+      'subtitle img'
+      'text img';
     grid-column-gap: 2em;
   }
 
@@ -430,6 +434,7 @@ header {
   transition: 0.5s ease;
   backface-visibility: hidden;
   opacity: 1;
+  padding: 10px;
 }
 
 /*.portfolio__item:focus {
@@ -589,7 +594,7 @@ header {
 
 /*  contact input styles*/
 
-input[type="text"],
+input[type='text'],
 select,
 textarea {
   width: 100%;
@@ -605,7 +610,7 @@ label {
   display: inline-block;
 }
 
-input[type="submit"] {
+input[type='submit'] {
   background-color: var(--clr-accent);
   color: white;
   padding: 12px 20px;
@@ -615,7 +620,7 @@ input[type="submit"] {
   float: right;
 }
 
-input[type="submit"]:hover {
+input[type='submit']:hover {
   background-color: #9b9986;
 }
 
@@ -644,7 +649,7 @@ textarea {
 
 /* Clear floats after the columns */
 .submit-row:after {
-  content: "";
+  content: '';
   display: table;
   clear: both;
 }
@@ -653,7 +658,7 @@ textarea {
 @media screen and (max-width: 600px) {
   .coll-25,
   .coll-75,
-  input[type="submit"] {
+  input[type='submit'] {
     width: 100%;
     margin-top: 0;
   }
