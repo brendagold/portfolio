@@ -14,7 +14,7 @@ const Main = () => {
           front-end dev
         </p>
         <img
-          src={process.env.PUBLIC_URL + '/images/brenda-main.jpg'}
+          src={  '/images/brenda-main.jpg'}
           alt="Brenda Peters smiling"
           className="intro__img"
         />
@@ -56,7 +56,7 @@ const Main = () => {
         </div>
 
         <img
-          src={process.env.PUBLIC_URL + '/images/brenda-about.jpg'}
+          src={  '/images/brenda-about.jpg'}
           alt="Brenda"
           className="about-me__img"
         />
@@ -73,7 +73,7 @@ const Main = () => {
           {/* <!-- Portfolio item 01 --> */}
           <div className="portfolio__overlay">
             <img
-              src={process.env.PUBLIC_URL + '/images/image-hub.jpg'}
+              src={  '/images/image-hub.jpg'}
               alt="port1"
               className="portfolio__img"
             />
@@ -91,7 +91,7 @@ const Main = () => {
           {/* <!-- Portfolio item 02 --> */}
           <div className="portfolio__overlay">
             <img
-              src={process.env.PUBLIC_URL + '/images/vidly-large.jpg'}
+              src={  '/images/vidly-large.jpg'}
               alt="port2"
               className="portfolio__img"
             />
@@ -109,7 +109,7 @@ const Main = () => {
           {/* <!-- Portfolio item 03 --> */}
           <div className="portfolio__overlay">
             <img
-              src={process.env.PUBLIC_URL + '/images/brenda-travel.jpg'}
+              src={  '/images/brenda-travel.jpg'}
               alt="port3"
               className="portfolio__img"
             />
@@ -127,7 +127,7 @@ const Main = () => {
           {/* <!-- Portfolio item 04 --> */}
           <div className="portfolio__overlay">
             <img
-              src={process.env.PUBLIC_URL + '/images/beautie-times.jpg'}
+              src={  '/images/beautie-times.jpg'}
               alt="port4"
               className="portfolio__img"
             />
@@ -148,7 +148,7 @@ const Main = () => {
         <div className="contact-grid">
           <div className="grid-item1">
             <img
-              src={process.env.PUBLIC_URL + '/images/contact-us.svg'}
+              src={  '/images/contact-us.svg'}
               alt="contact-me"
             />
           </div>
