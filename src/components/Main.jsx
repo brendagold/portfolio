@@ -73,7 +73,7 @@ const Main = () => {
           {/* <!-- Portfolio item 01 --> */}
           <div className="portfolio__overlay">
             <img
-              src='images/image-hub.jpg'
+              src='images/image-hub.JPG'
               alt="port1"
               className="portfolio__img"
             />
@@ -91,7 +91,7 @@ const Main = () => {
           {/* <!-- Portfolio item 02 --> */}
           <div className="portfolio__overlay">
             <img
-              src='images/vidly-large.jpg'
+              src='images/vidly-large.JPG'
               alt="port2"
               className="portfolio__img"
             />
@@ -109,7 +109,7 @@ const Main = () => {
           {/* <!-- Portfolio item 03 --> */}
           <div className="portfolio__overlay">
             <img
-              src='images/brenda-travel.jpg'
+              src='images/brenda-travel.JPG'
               alt="port3"
               className="portfolio__img"
             />
@@ -127,7 +127,7 @@ const Main = () => {
           {/* <!-- Portfolio item 04 --> */}
           <div className="portfolio__overlay">
             <img
-              src='images/beautie-times.jpg'
+              src='images/beautie-times.JPG'
               alt="port4"
               className="portfolio__img"
             />
