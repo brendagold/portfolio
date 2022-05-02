@@ -15,7 +15,7 @@ function App() {
       <Header />
 
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/portfolio">
           <Main />
         </Route>
         <Route path="/portfolio/:portId">

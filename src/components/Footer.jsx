@@ -6,13 +6,13 @@ const Footer = () => {
       <h4 className="footer-head">Let's Be Internet BFFs</h4>
       <ul className="social-list">
         <li className="social-list__item">
-          <a className="social-list__link" href="https://t.me/charmingbrenda">
+          <a className="social-list__link" target="_blank" rel="noopener noreferrer" href="https://t.me/charmingbrenda">
             <i className="fab fa-telegram-plane"></i>
           </a>
         </li>
         <li className="social-list__item">
           <a
-            className="social-list__link"
+            className="social-list__link" target="_blank" rel="noopener noreferrer"
             href="http://linkedin.com/in/mary-brenda-chukwuma-14a933141"
           >
             <i className="fab fa-linkedin"></i>
@@ -21,13 +21,14 @@ const Footer = () => {
         <li className="social-list__item">
           <a
             className="social-list__link"
+            target="_blank" rel="noopener noreferrer"
             href="https://twitter.com/charmingbrenda"
           >
             <i className="fab fa-twitter"></i>
           </a>
         </li>
         <li className="social-list__item">
-          <a className="social-list__link" href="https://github.com/brendagold">
+          <a className="social-list__link" target="_blank" rel="noopener noreferrer" href="https://github.com/brendagold">
             <i className="fab fa-github"></i>
           </a>
         </li>
