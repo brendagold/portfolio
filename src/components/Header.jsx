@@ -8,7 +8,7 @@ const Header = (props) => {
       <div className="logo">
         <Link to="/">
           <img
-            src={  "/images/logo.png"}
+            src="/images/logo.png"
             alt="portfolio-logo"
           />
         </Link>
