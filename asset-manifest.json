@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "https://devmary.online/static/css/main.368f3580.chunk.css",
-    "main.js": "https://devmary.online/static/js/main.f4186715.chunk.js",
-    "main.js.map": "https://devmary.online/static/js/main.f4186715.chunk.js.map",
-    "runtime-main.js": "https://devmary.online/static/js/runtime-main.65f5e698.js",
-    "runtime-main.js.map": "https://devmary.online/static/js/runtime-main.65f5e698.js.map",
-    "static/css/2.24b83f32.chunk.css": "https://devmary.online/static/css/2.24b83f32.chunk.css",
-    "static/js/2.87bd4547.chunk.js": "https://devmary.online/static/js/2.87bd4547.chunk.js",
-    "static/js/2.87bd4547.chunk.js.map": "https://devmary.online/static/js/2.87bd4547.chunk.js.map",
-    "index.html": "https://devmary.online/index.html",
-    "precache-manifest.9f1f0fced1e8c9cff2a7a7e54db305b1.js": "https://devmary.online/precache-manifest.9f1f0fced1e8c9cff2a7a7e54db305b1.js",
-    "service-worker.js": "https://devmary.online/service-worker.js",
-    "static/css/2.24b83f32.chunk.css.map": "https://devmary.online/static/css/2.24b83f32.chunk.css.map",
-    "static/css/main.368f3580.chunk.css.map": "https://devmary.online/static/css/main.368f3580.chunk.css.map",
-    "static/js/2.87bd4547.chunk.js.LICENSE.txt": "https://devmary.online/static/js/2.87bd4547.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "https://devmary.online/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "https://brendagold.github.io/portfolio/static/css/main.368f3580.chunk.css",
+    "main.js": "https://brendagold.github.io/portfolio/static/js/main.09c3cd34.chunk.js",
+    "main.js.map": "https://brendagold.github.io/portfolio/static/js/main.09c3cd34.chunk.js.map",
+    "runtime-main.js": "https://brendagold.github.io/portfolio/static/js/runtime-main.89e060d7.js",
+    "runtime-main.js.map": "https://brendagold.github.io/portfolio/static/js/runtime-main.89e060d7.js.map",
+    "static/css/2.76c5ab3d.chunk.css": "https://brendagold.github.io/portfolio/static/css/2.76c5ab3d.chunk.css",
+    "static/js/2.87bd4547.chunk.js": "https://brendagold.github.io/portfolio/static/js/2.87bd4547.chunk.js",
+    "static/js/2.87bd4547.chunk.js.map": "https://brendagold.github.io/portfolio/static/js/2.87bd4547.chunk.js.map",
+    "index.html": "https://brendagold.github.io/portfolio/index.html",
+    "precache-manifest.b3a8ae095b9e69f6f34047304c4191d5.js": "https://brendagold.github.io/portfolio/precache-manifest.b3a8ae095b9e69f6f34047304c4191d5.js",
+    "service-worker.js": "https://brendagold.github.io/portfolio/service-worker.js",
+    "static/css/2.76c5ab3d.chunk.css.map": "https://brendagold.github.io/portfolio/static/css/2.76c5ab3d.chunk.css.map",
+    "static/css/main.368f3580.chunk.css.map": "https://brendagold.github.io/portfolio/static/css/main.368f3580.chunk.css.map",
+    "static/js/2.87bd4547.chunk.js.LICENSE.txt": "https://brendagold.github.io/portfolio/static/js/2.87bd4547.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "https://brendagold.github.io/portfolio/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.65f5e698.js",
-    "static/css/2.24b83f32.chunk.css",
+    "static/js/runtime-main.89e060d7.js",
+    "static/css/2.76c5ab3d.chunk.css",
     "static/js/2.87bd4547.chunk.js",
     "static/css/main.368f3580.chunk.css",
-    "static/js/main.f4186715.chunk.js"
+    "static/js/main.09c3cd34.chunk.js"
   ]
 }
