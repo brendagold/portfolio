@@ -1,7 +1,14 @@
+import imageHub from './images/image-hub.JPG'
+import vidly from './images/vidly-large.JPG'
+import brendaTravel from './images/brenda-travel.JPG'
+import beautietimes from './images/beautie-times.JPG'
+
+
+
 export default [
   {
     title: "Image Hub",
-    src: "/images/image-hub.jpg",
+    src: `${imageHub}`,
     subtitle: "Like and buy your pictures",
     _id: "1",
     url: "https://brendagold.github.io/image-hub",
@@ -10,7 +17,7 @@ export default [
   },
   {
     title: "Vidly Movie App",
-    src: "/images/vidly-large.jpg",
+    src: `${vidly}`,
     subtitle: "Search for movie of your choice",
     _id: "2",
     url: "https://brendagold.github.io/vidly/",
@@ -18,7 +25,7 @@ export default [
   },
   {
     title: "Brenda Travel",
-    src: "/images/brenda-travel.jpg",
+    src: `${brendaTravel}`,
     subtitle: "Travel Website",
     _id: "3",
     url: "https://brendagold.github.io/Brenda-Travel/src/index.html",
@@ -27,7 +34,7 @@ export default [
   },
   {
     title: "Beautie Times",
-    src: "/images/beautie-times.jpg",
+    src: `${beautietimes}`,
     subtitle: "Lifestyle Blog",
     _id: "4",
     url: "https://beautietimes.com/",

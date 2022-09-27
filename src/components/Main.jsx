@@ -2,6 +2,12 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Services from './services';
 import brendaSmile from '../images/brenda-main.jpg'
+import brenda from '../images/brenda-about.jpg'
+import imageHub from '../images/image-hub.JPG'
+import vidly from '../images/vidly-large.JPG'
+import brendaTravel from '../images/brenda-travel.JPG'
+import beautietimes from '../images/beautie-times.JPG'
+import contactUs from '../images/contact-us.svg'
 
 const Main = () => {
   return (
@@ -57,7 +63,7 @@ const Main = () => {
         </div>
 
         <img
-          src='images/brenda-about.jpg'
+          src={brenda}
           alt="Brenda"
           className="about-me__img"
         />
@@ -74,7 +80,7 @@ const Main = () => {
           {/* <!-- Portfolio item 01 --> */}
           <div className="portfolio__overlay">
             <img
-              src='images/image-hub.JPG'
+              src={imageHub}
               alt="port1"
               className="portfolio__img"
             />
@@ -92,7 +98,7 @@ const Main = () => {
           {/* <!-- Portfolio item 02 --> */}
           <div className="portfolio__overlay">
             <img
-              src='images/vidly-large.JPG'
+              src={vidly}
               alt="port2"
               className="portfolio__img"
             />
@@ -110,7 +116,7 @@ const Main = () => {
           {/* <!-- Portfolio item 03 --> */}
           <div className="portfolio__overlay">
             <img
-              src='images/brenda-travel.JPG'
+              src={brendaTravel}
               alt="port3"
               className="portfolio__img"
             />
@@ -128,7 +134,7 @@ const Main = () => {
           {/* <!-- Portfolio item 04 --> */}
           <div className="portfolio__overlay">
             <img
-              src='images/beautie-times.JPG'
+              src={beautietimes}
               alt="port4"
               className="portfolio__img"
             />
@@ -149,7 +155,7 @@ const Main = () => {
         <div className="contact-grid">
           <div className="grid-item1">
             <img
-              src='images/contact-us.svg'
+              src={contactUs}
               alt="contact-me"
             />
           </div>

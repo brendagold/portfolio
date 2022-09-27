@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import logo from '../images/logo.png'
 
 const Header = (props) => {
   const [open, setOpen] = useState(false);
@@ -8,7 +9,7 @@ const Header = (props) => {
       <div className="logo">
         <Link to="/">
           <img
-            src="images/logo.png"
+            src={logo}
             alt="portfolio-logo"
           />
         </Link>
