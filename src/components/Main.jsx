@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Services from './services';
+import brendaSmile from '../images/brenda-main.jpg'
 
 const Main = () => {
   return (
@@ -14,7 +15,7 @@ const Main = () => {
           front-end dev
         </p>
         <img
-          src='images/brenda-main.jpg'
+          src={brendaSmile}
           alt="Brenda Peters smiling"
           className="intro__img"
         />
